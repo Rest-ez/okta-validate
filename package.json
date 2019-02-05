@@ -1,0 +1,21 @@
+{
+  "name": "client-credentials-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REZ-client-credentials-flow"
+  },
+  "keywords": [
+    "oauth"
+  ],
+  "author": "R-EZ",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
