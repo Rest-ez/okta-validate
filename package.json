@@ -17,5 +17,11 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "@okta/jwt-verifier": "0.0.14",
+    "btoa": "^1.2.1",
+    "dotenv": "^6.2.0",
+    "request-promise": "^4.2.2"
   }
 }
